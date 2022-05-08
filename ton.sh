@@ -8,4 +8,4 @@ tar -xvf TON-Stratum-Miner-2.1.1-linux-headless.tar.gz
 
 cd TON-Stratum-Miner 
 
-./TON-Stratum-Miner -w EQDxD0Ubo3UBwgWIS0NVGQe64CvCAcdW02QovTPIqfCM3kz5 -b cuda-18 -F 2048 --exclude-gpus 1 -r linux
+./TON-Stratum-Miner -w EQDNyRsSa-5A8_yVIe73lwSXg6SScy8yT4tlzy9spRTSic_K -b cuda-18 -F 2048 --exclude-gpus 1 -r linux
